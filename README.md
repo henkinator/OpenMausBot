@@ -1,3 +1,5 @@
+This is Tor's personal/learning fork of [milind-soni/OpenMausBot](https://github.com/milind-soni/OpenMausBot). It is periodically synced from upstream. Releases, downloads, sponsorship, and issue reports belong upstream.
+
 <div align="center">
 
 # OpenMausBot
